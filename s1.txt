@@ -1,1 +1,2 @@
-welcome to git class
+welcome to git class 
+hope everyone is doing well
